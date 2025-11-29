@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Hobots-A-Coach-405.PrjPcb]
+   Generated File[Hobots-A-Coach-405-RoundHoles-Plated.TXT]
+   Generated File[Hobots-A-Coach-405-RoundHoles-NonPlated.TXT]
+   Generated File[Hobots-A-Coach-405-SlotHoles-Plated.TXT]
+   Generated File[Hobots-A-Coach-405.LDP]
+   Generated File[Hobots-A-Coach-405.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 21:39:30 On 29.11.2025
